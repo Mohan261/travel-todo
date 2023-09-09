@@ -1,0 +1,36 @@
+.container {
+  background-color: orangered;
+  width: 100%;
+}
+.form-sec {
+  width: 60%;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.add-btn {
+  display: inline-block;
+  background-color: rgb(17, 209, 243);
+  border: none;
+  padding: 8px 12px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+.select {
+  background-color: bisque;
+  width: 8%;
+  height: 30px;
+  border: none;
+  border-radius: 15px;
+  padding: 8px 12px;
+}
+.input {
+  background-color: bisque;
+  width: 19%;
+  height: 30px;
+  border: none;
+  border-radius: 15px;
+  padding: 8px 12px;
+}

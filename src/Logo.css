@@ -1,0 +1,12 @@
+.logo-sec {
+  background-color: orange;
+  width: 100%;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  font-family: "Monoton", cursive;
+  font-size: 60px;
+}
